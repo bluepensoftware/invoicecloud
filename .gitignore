@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/EngageSmart.Master/v16/.suo
+/ElementNavigator/bin/Debug
+/ElementNavigator/obj/Debug
+/ElementNavigator/ElementNavigator.csproj.user
+/packages
